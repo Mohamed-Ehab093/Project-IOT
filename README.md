@@ -1,2 +1,2 @@
 # Project-IOT
-Bluetooth Robot Car and Remote Control App for robot 
+Bluetooth Robot Car and Remote Control Mobile App for robot 
